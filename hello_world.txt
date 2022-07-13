@@ -1,0 +1,3 @@
+Learning how to bring down a copy to my local from the remote
+Making changes to a document and then staging it
+Finally, committing the changed file and sending it back to the main
